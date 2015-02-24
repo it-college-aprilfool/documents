@@ -41,3 +41,5 @@ inviteしたのでそこで作業します。
 * Shimabukuro Kiyono
 * Kinjou Nami
 * Maeda Toshiki
+* Shimoji Taihei
+* Hanashiro Takafumi
