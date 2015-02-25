@@ -22,6 +22,9 @@ typn先生がやたら出てくる ~~艦これのパクリ~~ を作る。
 
 [この辺](https://middlemanapp.com/)見てインストールしておくこと。
 
+    sudo gem install -p http://172.16.40.1:8888 middleman
+
+
 ### Github
 
 inviteしたのでそこで作業します。
@@ -32,7 +35,11 @@ inviteしたのでそこで作業します。
 
 ### その他
 
-あとで書く
+    git clone siteのリポジトリ 
+    cd site
+    bundle exec middleman server
+
+その後[サーバー](http://localhost:4567/)へアクセスしてみる。
 
 
 ## Members
