@@ -2,6 +2,11 @@
 
 ## 更新作業を行なう時に
 
+最新版のソースコードを取得します。
+
+    git checkout master
+    git pull origin master
+
 必ずcheckout -b (作業の名前)を行なってから作業しましょう。
 今回は作業の名前をfix-titleにしています。
 
@@ -22,3 +27,7 @@
 リーダーはPR(Pull Request)を確認し、問題なければmergeしてください。
 
 mergeされると自動的にS3へアップロードされます。
+
+## その他
+
+githubへのpushやマージ後のデプロイ(サーバーへの反映)はSlackの#notifyに通知が行きます。
