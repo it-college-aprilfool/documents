@@ -2,7 +2,7 @@
 
 ## ツール類のインストール
 
-    sudo aptitude install bundler
+    sudo aptitude install bundler ruby-dev
 
 だけでいいはず(多分
 
@@ -17,6 +17,6 @@
     cd site
     bundle exec middleman server
 
-上手く動いたら、ブラウザで http://localhost:4567 にアクセスする。 
+上手く動いたら、ブラウザで http://localhost:4567 にアクセスする。
 
 初回実行時のみ、めっちゃ時間かかるかも…
