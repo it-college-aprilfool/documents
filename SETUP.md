@@ -15,6 +15,7 @@
     cd 自分の作業用ディクレトリ
     git clone https://github.com/it-college-aprilfool/site.git
     cd site
+    bundle install
     bundle exec middleman server
 
 上手く動いたら、ブラウザで http://localhost:4567 にアクセスする。
