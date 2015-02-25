@@ -13,33 +13,7 @@ typn先生がやたら出てくる ~~艦これのパクリ~~ を作る。
 
 ## 開発に使用する言語・ツール
 
-* Middleman
-* Github
-* Slack 
-* JSはCoffeeScript、HTML/CSSはslim + markdown + sass + compassで書く。
-
-### Middleman
-
-[この辺](https://middlemanapp.com/)見てインストールしておくこと。
-
-    sudo gem install -p http://172.16.40.1:8888 middleman
-
-
-### Github
-
-inviteしたのでそこで作業します。
-
-### Slack
-
-あとでInviteします。
-
-### その他
-
-    git clone siteのリポジトリ 
-    cd site
-    bundle exec middleman server
-
-その後[サーバー](http://localhost:4567/)へアクセスしてみる。
+[別ページ](SETUP.md)に書いてます。 
 
 
 ## Members
