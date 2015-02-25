@@ -17,10 +17,12 @@
 作業が終ったら動作確認をして、gitにadd/commit/pushします。
 
     git add -A
-    git commit -m '作業内容を伝えるメッセージ'
+    git commit -m '変更箇所を伝えるメッセージ'
     git push origin fix-title
 
-この内容で反映してほしい場合はGithubのサイトからPull Requestを投げてください。
+上記コマンドは作業が完了するまで何回やってもかまいません。
+
+作業が完了し、内容を反映してほしい場合はGithubのサイトからPull Requestを投げてください。
 
 ## サーバーへの反映
 
