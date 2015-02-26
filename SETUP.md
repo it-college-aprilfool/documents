@@ -2,7 +2,7 @@
 
 ## ツール類のインストール
 
-    sudo aptitude install bundler ruby-dev
+    sudo aptitude install bundler ruby-dev zlib1g-dev
 
 だけでいいはず(多分
 
